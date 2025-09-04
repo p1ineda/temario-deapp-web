@@ -34,6 +34,7 @@ Cliente-Servidor
 Arquitectura de tres capas (presentación, lógica, datos)
 Diseño REST y API-first
 ## 3. Arquitectura de aplicaciones web
+<img width="289" height="137" alt="image" src="https://github.com/user-attachments/assets/68116f43-fee3-4f8c-aaa7-933a2b2d4ece" />
 
 Las aplicaciones web se estructuran en diferentes arquitecturas para optimizar su funcionamiento y escalabilidad:
 
@@ -63,6 +64,7 @@ HTML, CSS, JavaScript, PHP, MySQL
 Git y GitHub
 Flujo de trabajo con ramas (ramificación, fusión, aplicaciones de extracción)
 ## 5. Control de versiones
+<img width="282" height="144" alt="image" src="https://github.com/user-attachments/assets/120d653e-30e1-48a3-a11a-95ff0ed96a7f" />
 
 El control de versiones es esencial para el desarrollo colaborativo y la gestión de cambios en proyectos web.
 
@@ -82,6 +84,7 @@ Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una ap
 Maqueta/Wireframe/Mockup
 API
 ## 1. Diseño e implementación del frontend
+<img width="339" height="133" alt="image" src="https://github.com/user-attachments/assets/80d70d22-0445-4214-b058-d3efce7089d7" />
 
 El ** frontend ** es la parte de la aplicación web con la que interactúa el usuario. Su diseño y desarrollo incluye:
 
@@ -100,6 +103,7 @@ Servidor
 Manejo de peticiones y respuestas HTTP
 Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)
 ## 2. Diseño e implementación del backend
+<img width="273" height="150" alt="image" src="https://github.com/user-attachments/assets/c53245ab-f5af-4618-8e6e-087ddf8a42fc" />
 
 El ** backend ** es la parte lógica y funcional de la aplicación, encargada de procesar datos, manejar solicitudes y conectarse a bases de datos.
 
@@ -120,6 +124,7 @@ Modelado de datos y relaciones
 ORM (Mapeo relacional de objetos)
 CRUD desde el backend
 ## 3. Bases de datos
+<img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/6ace8c66-898a-4efb-b4e1-471bc1f76728" />
 
 Las bases de datos son fundamentales para guardar información y permitir su acceso eficiente.
 
@@ -139,6 +144,7 @@ Las bases de datos son fundamentales para guardar información y permitir su acc
 Validación de formularios
 Autenticación y autorización
 ## 4. Seguridad básica en aplicaciones web
+<img width="317" height="128" alt="image" src="https://github.com/user-attachments/assets/89906e81-037f-445f-b67d-6e7e49eb0a2f" />
 
 La seguridad es esencial para proteger datos y usuarios.
 
@@ -158,6 +164,7 @@ Interfaz de usuario Frontend
 Manejo de API
 Proceso de Solicitud y Respuesta de Backend
 ## 1. Integración de frontend y backend
+<img width="265" height="159" alt="image" src="https://github.com/user-attachments/assets/bc0aefda-dfeb-4dba-813a-6f3f98188b15" />
 
 La integración del frontend y backend es fundamental para lograr una aplicación web funcional que brinde una experiencia completa al usuario.
 
@@ -175,6 +182,8 @@ El backend recibe las solicitudes del frontend, procesa la información, se cone
 - El frontend actualiza la interfaz según la respuesta recibida
 
 2.- Almacenamiento en Servidor
+<img width="293" height="153" alt="image" src="https://github.com/user-attachments/assets/7264bc64-e206-4243-a41e-483b1091779f" />
+
 Tipos de servidores
 Servidores y servicios de hosting
 Proveedores de Servicios de Almacenamiento
@@ -200,6 +209,8 @@ El almacenamiento y despliegue en servidores permite que la aplicación esté di
 ---
 
 3.-Optimización y rendimiento
+<img width="272" height="158" alt="image" src="https://github.com/user-attachments/assets/f58ab55e-eb12-40c5-8600-ae9cb0a1d1e4" />
+
 Optimización de recursos (imágenes, scripts)
 Despliegue de aplicaciones web
 CI/CD básico
