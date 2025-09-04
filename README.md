@@ -14,11 +14,11 @@ El desarrollo web ha evolucionado significativamente desde la creación de la Wo
 -  ** Década de 2010 ** : Llegada de frameworks JavaScript (Angular, React, Vue), aparición de SPA y PWA, auge del desarrollo móvil.
 -  ** Actualidad ** : API-first design, microservicios, Jamstack, automatización CI/CD, integración con IA.
 
-< img  ancho = " 299 "  alto = " 167 "  alt = " imagen "  src = " https://github.com/user-attachments/assets/920db8f6-55f0-4600-a707-af2d585631bf " />
 
 
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)
 ## 2. Tipos de aplicaciones web
+<img width="266" height="157" alt="image" src="https://github.com/user-attachments/assets/ce60938e-7693-4e0e-a5dc-790ff3b168a8" />
 
 Las aplicaciones web se clasifican según su funcionamiento y experiencia de usuario:
 
