@@ -5,6 +5,7 @@
 
 Historia y evolución del desarrollo web.
 ## 1. Historia y evolución del desarrollo web
+<img width="279" height="154" alt="image" src="https://github.com/user-attachments/assets/4ea1d808-f707-495b-bcfe-12af413e91c3" />
 
 El desarrollo web ha evolucionado significativamente desde la creación de la World Wide Web en 1989 por Tim Berners-Lee. Inicialmente, las páginas web eran estáticas y solo contenían texto y enlaces. Con el tiempo, se introdujeron nuevas tecnologías, lo que permitió agregar imágenes, formularios y estilos.
 
